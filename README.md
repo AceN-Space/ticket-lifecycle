@@ -26,25 +26,32 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="998" height="1332" alt="image" src="https://github.com/user-attachments/assets/2e86a89b-9cff-428e-ac90-5d14ae83b7b1" />
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>To explain what is going on this picture I made a end point user "Karen" open up a new ticket. The problem in this situation imaginary situation is that the banking system has gone down.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1269" height="981" alt="image" src="https://github.com/user-attachments/assets/a2772010-2053-4078-9b2e-a923beda42f3" />
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I made a connection between John Doe (IT employee which doesn't have high level permissions) and Karen (Endpoint User)in order to establish communication to help establish the current problem. So since this is out of John's authority he passes it on to Admin user Jane Doe.
 </p>
+<img width="1171" height="966" alt="image" src="https://github.com/user-attachments/assets/8d044598-3aa1-40f2-8305-1757c593ebaf" />
+
+
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+As the problem with the banking systems were not working Jane Doe found the "solution" while communicating to the group for updates on the current issue. After she confirmed the solution to the problem she closes the ticket. Leaving the bank systems fixed and operable.
 </p>
+<img width="1238" height="430" alt="image" src="https://github.com/user-attachments/assets/ca0eaa7c-c77f-41de-aeed-a4d17a041403" />
+
 <br />
