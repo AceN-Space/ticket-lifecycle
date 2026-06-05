@@ -43,7 +43,7 @@ This is a further representation of the communication between John Doe, and the 
 <img width="587" height="451" alt="image" src="https://github.com/user-attachments/assets/a7ac0566-b72f-4217-a8b1-f2f74bf1dcdd" />
 
 
-</p>After John Doe made his changes to the ticket the following has been changed from when the ticket arrived. The priority, department, who the ticket is assigned to, SLA-Plan, and help topic. Notice how John does keep the portal updated by saying that he contacted the end-user which is Karen.
+</p>After John Doe made his changes to the ticket the following has been changed from when the ticket arrived. The priority, department, who the ticket is assigned to, SLA-Plan, and help topic. Notice how John does keep the portal updated by saying that he contacted the end-user, leaving Jane Doe informed and updated about the situation.
 <img width="1171" height="966" alt="image" src="https://github.com/user-attachments/assets/8d044598-3aa1-40f2-8305-1757c593ebaf" />
 Working The Issue/Resolution
 </p>
