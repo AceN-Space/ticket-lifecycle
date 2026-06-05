@@ -39,7 +39,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-As John is working he notices that if this problem continues that it could damage the company in a horrible way since Karen and her fellow co-workers can't access the banking system. In this case John changes the priority of the ticket from "normal" to "emergency", also changing the SLA plan to Sev-A (urgent problem). When John is working on and viewing this ticket he notices that this requires higher level access and expertise due to the severity of the problem. He changes the department (from Support to SysAdmins) and escalates it over to the SysAdmin, Jane Doe, which will handle the ticket. John will stay in communication in the group to keep Jane updated to what he has learned from the end-user.
+As John is working he notices that if this problem continues that it could damage the company in a horrible way since Karen and her fellow co-workers can't access the banking system. In this case John changes the priority of the ticket from "normal" to "emergency", also changing the SLA plan to Sev-A (urgent problem). John notices that this requires higher level access and expertise due to the severity of the problem. He changes the department (from Support to SysAdmins) and escalates it over to the SysAdmin, Jane Doe, which will handle the ticket. John will stay in communication in the group to keep Jane updated to what he has learned from the end-user.
 </p>
 <img width="1171" height="966" alt="image" src="https://github.com/user-attachments/assets/8d044598-3aa1-40f2-8305-1757c593ebaf" />
 
