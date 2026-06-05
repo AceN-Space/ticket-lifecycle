@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img width="998" height="1332" alt="image" src="https://github.com/user-attachments/assets/2e86a89b-9cff-428e-ac90-5d14ae83b7b1" />
 
 </p>
-<p>To explain what is going on this picture I made a end point user "Karen" open up a new ticket. The problem in this situation imaginary situation is that the banking system has gone down.
+<p>A user known as "Karen" is having problems with the banking system at her job. Therefore Karen sends in a service request to the help desk for them to look and assist and fix the problem. She leaves a description of the issue to her best knowledge in the ticket descrtiption to clarify the issue so that the assigned technician, which is John Doe, can get a general idea how to handle this situation. The ticket is then reported and pending for further action to take place from the professional techninican John Doe.
 </p>
 <br />
 
