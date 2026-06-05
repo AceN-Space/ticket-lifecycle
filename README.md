@@ -48,11 +48,11 @@ This is a further representation of the communication between John Doe, and the 
 Working The Issue/Resolution
 </p>
 
-When Jane Doe(SysAdmin) gets a hold of this ticket she is able to use her expertise to get a solution to this problem that Karen and her co-workers were having. She starts troubleshooting and narrows it down to a specific issue . Jane Doe notices that the backend server for the banking system has restarted accidentally due to a configuration issue. Jane Doe reports it in the chat/portal and fixes the settings and configuration of the server then restarts to see if this fixes the problem. While all of this is happening Jane keeps in communication and updates the portal. Jane gets in communication with Karen to see if the problem has been fixed and Karen confirms that everything is operable now. After Jane confirms with Karen she then proceeds to close the ticket and confirms with the group that the problem finally came down to a solution.
+When Jane Doe(SysAdmin) gets a hold of this ticket she is able to use her expertise to get a solution to this problem that Karen and her co-workers were having. She starts troubleshooting and narrows it down to a specific issue . Jane Doe notices that the backend server for the banking system has restarted accidentally due to a configuration issue. Jane Doe reports it in the chat/portal and fixes the settings and configuration of the server then restarts to see if this fixes the problem. While all of this is happening Jane keeps in communication and updates the portal. Jane Doe gets in communication with Karen to see if the problem has been fixed and Karen confirms that everything is operable now. After Jane Doe confirms with Karen she then proceeds to close the ticket and confirms with the group that the problem finally came down to a solution.
 </p>
 <img width="1238" height="430" alt="image" src="https://github.com/user-attachments/assets/ca0eaa7c-c77f-41de-aeed-a4d17a041403" />
 
-<p/> Jane Doe then proceeds to change the ticket from open to closed therefore leaving the ticket resolved/concluded
+<p/> Jane Doe then proceeds to change the ticket from open to closed therefore leaving the ticket resolved/concluded.
 <img width="665" height="482" alt="image" src="https://github.com/user-attachments/assets/8bc6267b-fad5-4535-950b-9501af99f09c" />
 
 
