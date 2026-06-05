@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. The following people and roles will be in place whcih are Karen ( End-User), John Doe (IT Support Technician), and Jane Doe ( SysAdmin).<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. The following people and roles will be in place whcih are Karen ( End-User), John Doe (IT Support Technician), and Jane Doe (SysAdmin).<br />
 
 <h2>Environments and Technologies Used</h2>
 
