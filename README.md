@@ -26,7 +26,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 Intake Phase
-<p>A end user known as Karen is having problems with the banking system at her job. Therefore Karen sends in a service request to the help desk for them to look and assist and fix the problem. Karen selects general inquiry/other under the help topic tab and fills the ticket description to clarify the issue so that the assigned technician, which is John Doe, can get a general idea how to handle this situation. The ticket is then reported and pending for further action and will be assigned to the Support Technician which will be John Doe.
+<p>A end user known as Karen is having problems with the banking system at her job. Therefore Karen sends in a ticket request to the help desk for them to look and assist and fix the problem. Karen selects general inquiry/other under the help topic tab and fills the ticket description to clarify the issue so that the assigned technician, which is John Doe, can get a general idea how to handle this situation. The ticket is then reported and pending for further action and will be assigned to the IT Support Technician which will be John Doe.
 <img width="998" height="1332" alt="image" src="https://github.com/user-attachments/assets/2e86a89b-9cff-428e-ac90-5d14ae83b7b1" />
 
 </p>
