@@ -34,7 +34,7 @@ Intake Phase
 <br />
 Assignment
 </p>
-<p>As John Doe is working he notices that if this problem continues that it could damage the company in a horrible way since Karen and her fellow co-workers can't access the banking system. In this case John changes the priority of the ticket from "normal" to "emergency", also updating the SLA plan to Sev-A (urgent problem), along with changing the help topic to "Business Critical Outage". John notices that this requires higher level access and expertise due to the severity of the problem. He changes the department (from Support to SysAdmins) and escalates it over to the SysAdmin, Jane Doe, which will handle the ticket. John Doe called the end-user, which is Karen, to confirm that all the systems are down and reports it in the portal for Jane Doe (SysAdmin) to see.
+<p>As John Doe is working he notices that if this problem continues that it could damage the company in a horrible way since Karen and her fellow co-workers can't access the banking system. In this case John changes the priority of the ticket from "normal" to "emergency", also updating the SLA plan to Sev-A (urgent problem), along with changing the help topic to "Business Critical Outage". John Doe notices that this requires higher level access and expertise due to the severity of the problem. He changes the department (from Support to SysAdmins) and escalates it over to the SysAdmin, Jane Doe, which will handle the ticket. John Doe called the end-user, which is Karen, to confirm that all the systems are down and reports it in the portal for Jane Doe (SysAdmin) to see.
 <img width="1269" height="981" alt="image" src="https://github.com/user-attachments/assets/a2772010-2053-4078-9b2e-a923beda42f3" />
   Communication and Changes
 </p>
